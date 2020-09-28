@@ -1,0 +1,12 @@
+1 Ingresar un nuevo Empleado 		-- AgregarEmpleado  	**
+2 Consulta de empleado por cedula 	-- ObtenerEmpleado
+3 Consulta de empleados 		-- for Empleados	**
+4 Consulta de empleados por cargo	++ EmpleadosxCargo 
+5 Consulta de empleados por nombre	++ EmpleadosxNombre
+6 Ingresar un nuevo cargo		-- AgregarCargo
+7 Consultar los cargo			-- for Cargos		**
+8 Agrego un telefono al empleado	?? AgregarTelefono
+9 Cambiar el cargo del empleado		?? AsignarCargo
+
+
+
